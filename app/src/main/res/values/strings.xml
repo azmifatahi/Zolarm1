@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">زولارم</string>
+    <string name="tagline">اكسر الكسل. انهض.</string>
+    <string name="menu_about">حول التطبيق</string>
+    <string name="menu_update">البحث عن تحديث</string>
+    <string name="menu_permissions">الصلاحيات</string>
+    <string name="about_title">حول زولارم</string>
+    <string name="about_body">زولارم — منبّه بصعوبة عالية.\nأكمل التحدي (خطوات أو وجه) لإيقافه.\nالإصدار %1$s</string>
+    <string name="update_checking">جاري البحث عن تحديث…</string>
+    <string name="update_latest">أنت على أحدث إصدار (%1$s)</string>
+    <string name="update_available">إصدار جديد: %1$s (الحالي %2$s)</string>
+    <string name="update_open">تثبيت التحديث</string>
+    <string name="update_failed">تعذّر التحقق. تحقق من الإنترنت.</string>
+    <string name="ok">حسناً</string>
+    <string name="later">لاحقاً</string>
+</resources>
